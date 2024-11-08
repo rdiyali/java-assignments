@@ -2,7 +2,7 @@
 This repository contains a collection of Java projects and assignments from my coursework, focusing on core data structures, algorithms, and other concepts. 
 Each project demonstrates practical implementations of foundational computer science topics.
 
-Feel free to look at the code, fork the repository, or adapt components for your projects.
+Feel free to look at the code, fork the repository, or adapt components for your projects. feedback is always appreciated. 
 
 Contents
 Vector: 
